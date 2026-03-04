@@ -36,4 +36,35 @@ Correlation between Asthma Percentage and Percentage Green Space in The Bronx: _
 
 ---
 
-Insert Graphs
+# Citywide
+
+`Tree Density Citywide`
+
+![new_tree_map](MAPS/new_tree_map.png)
+
+`Green Space Percentage Citywide`
+
+![new_green_map](MAPS/new_green_map.png)
+
+`Asthma Rates Citywide`
+
+![new_asthma_map](MAPS/new_asthma_map.png)
+
+
+# The Bronx
+
+`Tree Density in The Bronx`
+
+![bronx_tree_map](MAPS/bronx_tree_map.png)
+
+`Green Space Percentage in The Bronx`
+
+![bronx_green_map](MAPS/bronx_green_map.png)
+
+`Asthma Rates in The Bronx`
+
+![bronx_asthma_map](MAPS/bronx_asthma_map.png)
+
+
+
+
