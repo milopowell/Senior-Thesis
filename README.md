@@ -16,9 +16,9 @@ This Jupyter Notebook contains the code used for my Senior Thesis which looked a
 
 --- 
 
-Asthma remains a crucial public health concern for New Yorkers as the city hosts double the rate of cases compared to the rest of the United States. Around the city, asthma rates also vary broadly leading to a need for resaerch to understand the factors that contribute to respiratory health outcomes.
+Asthma remains a crucial public health concern for New Yorkers as the city hosts double the rate of cases compared to the rest of the United States. Around the city, asthma rates also vary broadly leading to a need for research to understand the factors that contribute to respiratory health outcomes.
 
-This research looked specifically at the prevalence of green space and tree density in local areas around NYC and their relationship to asthma rates. It was hypothesized that greater green space prevelance and tree density would be associated with lower rates of asthma around NYC.
+This research looked specifically at the prevalence of green space and tree density in local areas around NYC and their relationship to asthma rates. It was hypothesized that greater green space prevalence and tree density would be associated with lower rates of asthma around NYC.
 
 To conduct this research, we looked at publically sourced data from NYC Open Data and conducted analyses in a Jupyter Notebook. By looking at these factors together throughout the entire city and in The Bronx specifically, we found statistically significant results both citywide and at the borough level.
 
